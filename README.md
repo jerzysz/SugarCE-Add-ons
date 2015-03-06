@@ -237,6 +237,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Blue Theme for SugarCRM CE](http://www.youaddon.com/portfolio/detail/3/YouAddOn-Sugar-CRM-Blue-Theme-for-CE) on YouAddOn.com.
 * [Metro Theme for SugarCRM CE](http://www.youaddon.com/portfolio/detail/13/Sugar-CRM-Metro-Theme-Theme-for-CE) on YouAddOn.com.
 * [Salesforce Theme for SugarCRM CE](http://www.youaddon.com/portfolio/detail/6/Sugar-CRM-Salesforce-Theme-for-CE) on YouAddOn.com. 
+* [SpecINFO Blue Theme for SugarCRM CE](https://github.com/specinfo/bluetheme) on GitHub.com. 
 
 ## Training
 
